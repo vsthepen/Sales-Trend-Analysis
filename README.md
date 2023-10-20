@@ -25,6 +25,17 @@ Fifth Step:  A sales trend dashboard was built showing the total sales by produc
 
 - **Cassava starch, tea, and tomato sauce** are the three products that performed poorly. **Red wine and energy drinks** round out the list.
 
+## RECOMMENDATIONS
+
+- Since October consistently sees the highest sales revenue, the company should prepare for this peak in demand. This could be in terms of increasing production capacity, launching special promotions, or running targeted marketing campaigns in the lead-up to October.
+
+- Since **Wheat flour, oil, and yeasts** contribute significantly to sales revenue and the total number of products sold, the company should continue to emphasize and invest in these product categories. e.g, expanding product lines by selling multiple variants of these products with varied price ranges or enhancing marketing efforts.
+
+- It's important to understand why **Cassava starch, tea, and tomato sauce** are not performing well. We can investigate other factors such as demand, pricing, quality, and competition. In addition, we can consider if there are opportunities for improvement, price adjustments or marketing efforts to boost sales.
+
+- If **Red wine and energy drinks** continue to underperform, it may be worthwhile to reassess whether they align with the company's customer base. We should consider discontinuing these products if they are not contributing to the company's overall profitability.
+
+
 A Sales Team dashboard was additionally created to display the Quantity sold by Salesperson, Actual vs Budgeted sales for each person and the Top 3 Salespersons by Sales Amount. A bar chart, line chart and a multi row card were used respectively.
 
 ## Sales Team Performance Dashboard
